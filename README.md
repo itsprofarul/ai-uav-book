@@ -168,7 +168,9 @@ This chapter explores the regulatory landscape governing AI-driven drones, inclu
 This concluding chapter examines emerging research directions including agentic AI, neuromorphic computing, quantum computing for drones, and fully autonomous aerial ecosystems. It identifies open research questions and opportunities for interdisciplinary collaboration.
   
 <p align="center">
+
 [Back to Top](#artificial-intelligence-for-unmanned-aerial-systems)
+
 </p>
 
 ---
@@ -189,7 +191,9 @@ Samarkand, Uzbekistan
 
   
 <p align="center">
+
 [Back to Top](#artificial-intelligence-for-unmanned-aerial-systems)
+
 </p>
 
 ---
@@ -206,7 +210,9 @@ Samarkand, Uzbekistan
 
   
 <p align="center">
+
 [Back to Top](#artificial-intelligence-for-unmanned-aerial-systems)
+
 </p>
 
 ---
@@ -231,7 +237,9 @@ We welcome original contributions covering the themes and research areas outline
 
   
 <p align="center">
+
 [Back to Top](#artificial-intelligence-for-unmanned-aerial-systems)
+
 </p>
 
 ---
