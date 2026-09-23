@@ -2,7 +2,7 @@
 
 Foundations, Applications, and Future Directions
 
-[Book Cover]
+
 
 ## About the Book
 
