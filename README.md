@@ -1,6 +1,6 @@
-# Artificial Intelligence for Unmanned Aerial Systems
+# Autonomous Aerial Systems
 
-### Foundations, Applications, and Future Directions
+###  Machine Learning for Perception, Planning, and Control in UAVs
 
 ---
 
