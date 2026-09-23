@@ -42,9 +42,7 @@ The volume is structured to address three core pillars:
 2. **Domain-Specific Applications** spanning agriculture, surveillance, disaster response, logistics, environmental monitoring, defense, and beyond.
 3. **Cross-Cutting Challenges** including safety, security, privacy, energy efficiency, ethical considerations, and regulatory frameworks.
 
----
-
-## Book Highlights
+### Book Highlights
 
 - Machine learning for UAV applications
 - Deep learning for aerial perception
