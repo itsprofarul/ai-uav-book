@@ -12,7 +12,7 @@
 [Chapters](#parts-and-chapters) •
 [Editors](#editors) •
 [Important Dates](#important-dates) •
-[Contact](#contact)
+[Submission](#submission)
 
 </p>
 
