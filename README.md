@@ -2,6 +2,20 @@
 
 ### Foundations, Applications, and Future Directions
 
+**AI • UAVs • Autonomous Systems • Robotics • Computer Vision • Generative AI**
+
+A comprehensive contributed volume exploring artificial intelligence,
+autonomous flight, intelligent perception, decision-making, and emerging
+applications of unmanned aerial systems.
+
+[Submit a Chapter Proposal](#submission) • [Explore Chapters](#parts-and-chapters)
+
+<p align="center">
+
+[📩 Submit a Chapter Proposal](#submission)
+
+</p>
+
 ---
 
 <p align="center">
