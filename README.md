@@ -8,13 +8,12 @@ A comprehensive contributed volume exploring artificial intelligence,
 autonomous flight, intelligent perception, decision-making, and emerging
 applications of unmanned aerial systems.
 
-[Submit a Chapter Proposal](#submission) • [Explore Chapters](#parts-and-chapters) • [📩 Submit a Chapter Proposal](#submission)
+ • [Explore Chapters](#parts-and-chapters) • [📩 Submit a Chapter Proposal](#submission)
 
 ---
 
 <p align="center">
 
-[Home](#artificial-intelligence-for-unmanned-aerial-systems) •
 [Overview](#overview) •
 [Scope & Objectives](#scope-and-objectives) •
 [Chapters](#parts-and-chapters) •
