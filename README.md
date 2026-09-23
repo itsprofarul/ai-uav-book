@@ -58,6 +58,10 @@ The volume is structured to address three core pillars:
 - Energy-efficient and sustainable drone design
 - Regulatory, ethical, and social considerations
 - Emerging technologies for autonomous aerial systems
+  
+<p align="center">
+[Back to Top](#artificial-intelligence-for-unmanned-aerial-systems)
+</p>
 
 ---
 
@@ -160,6 +164,10 @@ This chapter explores the regulatory landscape governing AI-driven drones, inclu
 ### Chapter 21: Future Directions and Emerging Technologies
 
 This concluding chapter examines emerging research directions including agentic AI, neuromorphic computing, quantum computing for drones, and fully autonomous aerial ecosystems. It identifies open research questions and opportunities for interdisciplinary collaboration.
+  
+<p align="center">
+[Back to Top](#artificial-intelligence-for-unmanned-aerial-systems)
+</p>
 
 ---
 
@@ -177,6 +185,11 @@ Assistant Professor, School of Computing
 Samarkand International University of Technology  
 Samarkand, Uzbekistan
 
+  
+<p align="center">
+[Back to Top](#artificial-intelligence-for-unmanned-aerial-systems)
+</p>
+
 ---
 
 # Important Dates
@@ -188,6 +201,11 @@ Samarkand, Uzbekistan
 | **30 Nov 2026** | Full Chapter Submission |
 | **31 Dec 2026** | Revision & Final Review |
 | **31 Jan 2027** | Camera-Ready Submission |
+
+  
+<p align="center">
+[Back to Top](#artificial-intelligence-for-unmanned-aerial-systems)
+</p>
 
 ---
 
@@ -209,8 +227,12 @@ Please include the following in your email:
 
 We welcome original contributions covering the themes and research areas outlined in this book.
 
----
+  
+<p align="center">
+[Back to Top](#artificial-intelligence-for-unmanned-aerial-systems)
+</p>
 
+---
 
 # Proposed Publisher
 
