@@ -1,16 +1,36 @@
 # Artificial Intelligence for Unmanned Aerial Systems
 
-Foundations, Applications, and Future Directions
+### Foundations, Applications, and Future Directions
 
+---
 
+<p align="center">
+
+[Home](#artificial-intelligence-for-unmanned-aerial-systems) •
+[About](#about-the-book) •
+[Highlights](#book-highlights) •
+[Chapters](#parts-and-chapters) •
+[Editors](#editors) •
+[Contributors](#contributors) •
+[Call for Chapters](#call-for-chapters) •
+[Important Dates](#important-dates) •
+[Contact](#contact)
+
+</p>
+
+---
 
 ## About the Book
 
-...
+Your book description goes here.
+
+---
 
 ## Book Highlights
 
-...
+Your book highlights go here.
+
+---
 
 ## Parts and Chapters
 
@@ -47,22 +67,44 @@ Foundations, Applications, and Future Directions
 20. Regulatory, Ethical, and Social Implications
 21. Future Directions and Emerging Technologies
 
+---
+
 ## Editors
 
 ...
+
+---
 
 ## Contributors
 
 ...
 
+---
+
 ## Call for Chapters
 
 ...
 
+---
+
 ## Important Dates
 
-...
+- **20 Oct 2026:** Chapter Proposal Submission
+- **30 Oct 2026:** Acceptance Notification
+- **30 Nov 2026:** Full Chapter Submission
+- **31 Dec 2026:** Revision & Final Review
+- **31 Jan 2027:** Camera-Ready Submission
+
+---
 
 ## Contact
 
 ...
+
+---
+
+<p align="center">
+
+[Back to Top](#artificial-intelligence-for-unmanned-aerial-systems)
+
+</p>
