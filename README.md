@@ -8,7 +8,7 @@ A comprehensive contributed volume exploring artificial intelligence,
 autonomous flight, intelligent perception, decision-making, and emerging
 applications of unmanned aerial systems.
 
- • [Explore Chapters](#parts-and-chapters) • [📩 Submit a Chapter Proposal](#submission)
+ • [📩 Submit a Chapter Proposal](#submission)  •
 
 ---
 
@@ -216,20 +216,23 @@ Samarkand, Uzbekistan
 
 ---
 
-# Submission
+# Submission – Chapter Proposals
 
 Authors are invited to submit chapter proposals that align with the scope, objectives, and chapter themes of this book.
 
 To submit a chapter proposal or for submission-related inquiries, please contact the editors at:
 
-**Email:** [arulkumar.siut@gmail.com](mailto:arulkumar.siut@gmail.com)
+**Email:** [arulkumar.siut@gmail.com](mailto:arulkumar.siut@gmail.com?subject=AI-UAV-Book:%20Chapter%20Proposal%20Submission)
+
+**Subject line:** `AI-UAV-Book: Chapter Proposal Submission`
 
 Please include the following in your email:
 
 - Proposed chapter title
-- Brief chapter abstract
+- Brief chapter abstract (Max. 250 words)
+- Keywords
 - Author name(s) and affiliation(s)
-- Contact details
+- Contact details (Email)
 - Short author biography (optional)
 
 We welcome original contributions covering the themes and research areas outlined in this book.
