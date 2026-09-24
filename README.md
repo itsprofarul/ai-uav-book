@@ -220,6 +220,11 @@ Samarkand, Uzbekistan
 
 Authors are invited to submit chapter proposals that align with the scope, objectives, and chapter themes of this book.
 
+> **Please choose your topic from the chapter list.** The outline in
+> [Parts and Chapters](#parts-and-chapters) has been reviewed and accepted by the
+> publisher. Authors are requested to select one of the listed chapters and
+> indicate its **Part and chapter number** in the proposal.
+
 To submit a chapter proposal or for submission-related inquiries, please contact the editors at:
 
 **Email:** [arulkumar.siut@gmail.com](mailto:arulkumar.siut@gmail.com?subject=AI-UAV-Book:%20Chapter%20Proposal%20Submission)
@@ -228,7 +233,8 @@ To submit a chapter proposal or for submission-related inquiries, please contact
 
 Please include the following in your email:
 
-- Proposed chapter title
+- **Chapter number and title** from the Parts and Chapters list
+- Proposed chapter title (if you wish to refine the listed title)
 - Brief chapter abstract (Max. 250 words)
 - Keywords
 - Author name(s) and affiliation(s)
