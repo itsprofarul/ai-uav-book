@@ -227,7 +227,7 @@ Authors are invited to submit chapter proposals that align with the scope, objec
 
 To submit a chapter proposal or for submission-related inquiries, please contact the editors at:
 
-**Email:** [arulkumar.siut@gmail.com](mailto:arulkumar.siut@gmail.com?subject=AI-UAV-Book:%20Chapter%20Proposal%20Submission)
+**Email:** [academic.works.desk@gmail.com](mailto:academic.works.desk@gmail.com?subject=AI-UAV-Book:%20Chapter%20Proposal%20Submission)
 
 **Subject line:** `AI-UAV-Book: Chapter Proposal Submission`
 
